@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
-<h1 align="center">🔓 Bypass Rophim VIP — Source Code Disclosure</h1>
+<h1 align="center">🔓 key
+  mods
+  Bypass Rophim VIP — Source Code Disclosure</h1>
 
 <p align="center">
   <b>Client-Side Privilege Escalation via XHR Response Tampering</b><br/>
